@@ -19,7 +19,7 @@ const GsapStagger = () => {
         from: "center",
       },
     });
-  });
+  }, []);
 
   return (
     <main>
